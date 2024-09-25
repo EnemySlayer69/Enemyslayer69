@@ -1,6 +1,8 @@
-# 💫 About Me:
-Currently learning webdev<br>html css javascript
-
+👋 Hi there! I'm Aaditya Pradip – a passionate coder, problem-solver, and lifelong learner. 🚀  
+💡 I love turning ideas into clean, efficient code and exploring new tech stacks.  
+💻 Full-stack enthusiast | Open-source contributor | Tech geek  
+🔧 Currently mastering full stack(with JavaScript, HTML and CSS)  
+🌱 Always learning something new – let’s build something amazing together!  
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/@aadityapradip) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@slayergod_69) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@onlyaadityapradip) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@onlyaadityapradip) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@aaditya-pradip) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@aadityapradip) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@aadimj2005) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/@slayer_god69) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27284612) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/@slayergod_69) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@aaditya_pradip) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@slayergod_69) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Aaditya-Pradip) 
